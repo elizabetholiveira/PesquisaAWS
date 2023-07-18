@@ -1,0 +1,28 @@
+O que é um Sistema Distribuído?
+https://www.youtube.com/@sistemasdistribuidos-licen5508/videos
+“Um sistema distribuído é uma coleção de programas de computador que utilizam recursos computacionais em vários pontos centrais de computação diferentes para atingir um objetivo comum e compartilhado. Os sistemas distribuídos visam remover gargalos ou pontos centrais de falha de um sistema.”
+
+- Requisitos de um sistema distribuído.
+“Comunicação e Coordenação
+A comunicação entre processos em uma rede de computadores compõem o backbone de qualquer sistema distribuído. Para que a comunicação ocorra com sucesso, os protocolos de rede, responsáveis por ela, são divididos em uma stack onde cada camada responsabiliza-se em abstrair detalhes de seu funcionamento para as camadas superiores.”
+“Escalabilidade e Resiliência
+A escalabilidade representa uma das principais vantagens ao nos referirmos aos sistemas distribuídos, podendo ser encontrada nos formatos vertical (scaling up) e horizontal (scaling out). Uma aplicação escalável consegue aumentar sua capacidade de processamento horizontalmente de forma ágil, distribuindo a carga de trabalho entre diversos nodes e conseguindo dar vazão ao aumento da demanda, entregando a performance exigida.”
+https://medium.com/@marcelomg21/sistemas-distribu%C3%ADdos-conceito-e-defini%C3%A7%C3%B5es-f2baa4efc88d
+
+
+- Modelo Cliente/ Servidor.
+“A expressão de cliente-servidor é utilizada no âmbito da informática. Nesse contexto, chama-se cliente ao dispositivo que exige determinados serviços a um servidor. A ideia de servidor, entretanto, refere-se ao equipamento que presta serviços aos computadores conectados a ele através de uma rede.
+O conceito de cliente-servidor refere-se, portanto, a um modelo de comunicação que vincula vários dispositivos informáticos através de uma rede. O cliente, nesse contexto, faz solicitações de serviços ao servidor, responsável por atender a esses requisitos.
+Com essa arquitetura, as tarefas são distribuídas entre os servidores (que fornecem os serviços) e os clientes (que exigem esses serviços). Por outras palavras: o cliente solicita ao servidor um recurso, que fornece uma resposta.”
+https://conceito.de/cliente-servidor
+
+- Modelo P2P 
+"O modelo de negócio P2P (Peer-to-Peer) funciona permitindo que os indivíduos se conectem diretamente entre si e troquem produtos e serviços.
+P2P significa de pessoa para pessoa e não envolve relação entre empresas, portanto também pode ser chamado de modelo C2C (consumer to consumer)."
+“O modelo P2P originou um grande número de modelos de negócios diferentes com nomes diferentes, como plataformas, marketplaces ou crowdsourcing. Embora uma rede P2P seja projetada em torno do conceito de nós pares iguais, que funcionam simultaneamente como “clientes” e “servidores” para os outros nós da rede, no mundo dos negócios, o vendedor e os clientes são grupos diferentes e não precisam funcionar simultaneamente com os dois conjuntos.
+No fundo, apesar do conceito P2P tratar de uma conexão direta entre usuários, sem intermediários, isso não é totalmente possível. A conexão entre pessoas sempre será intermediada por alguma tecnologia e/ou empresa.”
+"Forças – Este é um modelo de negócio muito escalável, com fortes efeitos de rede.
+Fraquezas – Também sofre com o problema do ovo de galinha, igual nas plataformas multilaterais."
+https://analistamodelosdenegocios.com.br/modelo-de-negocio-p2p-c2c/
+https://startupi.com.br/o-modelo-p2p-nos-negocios/
+https://pt.wikipedia.org/wiki/Peer-to-peer
