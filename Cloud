@@ -1,0 +1,8 @@
+“Ao adotar a arquitetura de computação em nuvem, não há uma solução única para todos. O que funciona para outra empresa pode não atender a suas necessidades. Na verdade, essa flexibilidade e versatilidade são uma das marcas da nuvem, e permitem que as empresas se adaptem rapidamente a novos mercados ou métricas.
+
+Há três modelos diferentes de implantação de computação em nuvem: nuvem pública, nuvem privada e nuvem híbrida. 
+
+As nuvens públicas são executadas por provedores de serviços de nuvem de terceiros. Eles oferecem recursos de computação, armazenamento e rede pela Internet, permitindo que as empresas acessem recursos compartilhados sob demanda com base nos requisitos exclusivos e nas metas de negócios.
+As nuvens privadas são criadas, gerenciadas e pertencentes a uma única organização e hospedadas de modo particular nos data centers dela, geralmente conhecidos como "no local". Essas nuvens oferecem maior controle, segurança e gerenciamento de dados, enquanto ainda permitem que usuários internos se beneficiem de um pool compartilhado de recursos de computação, armazenamento e rede.
+As nuvens híbridas combinam modelos de nuvem pública e privada, permitindo que as empresas aproveitem os serviços de nuvem pública e mantenham os recursos de segurança e compliance normalmente encontrados em arquiteturas de nuvem privada.”
+https://cloud.google.com/learn/what-is-cloud-computing?hl=pt-br	
