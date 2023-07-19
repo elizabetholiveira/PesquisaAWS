@@ -1,0 +1,8 @@
+Iaas (Infrastructure as a service, ou infraestrutura como um serviço): o cliente contrata e utiliza a estrutura (hardware) do provedor em nuvem, contratando somente o que for utilizar e podendo fazer modificações conforme necessidade. As configurações e gerenciamento são responsabilidade do cliente.
+Exemplos: Amazon Web Service (AWS), Digital Ocean, Rackspace, Google Compute Engine (GCE)
+
+Paas (Platform as a service, ou plataforma como um serviço): Além de utilizar a infraestrutura do provedor em nuvem, a as plataformas também oferecem configurações e gerenciamento como atualizações de software para o sistema operacional utilizado. Os usuários principais das Paas são desenvolvedores.
+Exemplos: AWS Elastic Beanstalk, Microsoft Azure, Google Cloud, Red Hat OpenShift, Heroku, Google App Engine
+
+Saas (Software as a service, ou software como um serviço): É o que possui maior nível de abstração. As Saas normalmente podem ser acessadas via browser, sem ser necessária nenhuma instalação. Seu conteúdo a ser utilizado é armazenado na nuvem.
+Exemplos: Spotify, Netflix, Dropbox, Trello, Google Workspace
