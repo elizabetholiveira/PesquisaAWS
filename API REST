@@ -1,1 +1,3 @@
-
+API REST:
+Uma API REST (Representational State Transfer) é um estilo arquitetural para o desenvolvimento de serviços web. Ela define um conjunto de princípios e convenções para o design de interfaces web que são baseadas no protocolo HTTP. As APIs RESTful seguem os princípios do REST, que incluem a utilização de recursos (como URLs) para representar entidades e a realização de operações (como GET, POST, PUT, DELETE) nesses recursos.
+API REST permite que diferentes aplicativos se comuniquem entre si por meio de solicitações HTTP, geralmente usando formatos de dados como JSON ou XML para representar os dados. Ela fornece uma maneira padronizada e eficiente para que os clientes acessem e interajam com os recursos oferecidos pelo servidor, permitindo a criação de aplicativos e serviços mais flexíveis e escaláveis.
