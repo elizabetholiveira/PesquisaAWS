@@ -1,1 +1,4 @@
+O Que é TCP/IP
 
+TCP/IP é um conjunto de protocolos que possibilita a comunicação entre computadores e servidores, formando a Internet. Ele combina o Protocolo de Controle de Transmissão (TCP), responsável pela transmissão de dados, com o Protocolo de Internet (IP), que identificar os computadores e servidores.
+O TCP garante a entrega precisa dos dados assim que o endereço IP for encontrado. Juntos, os dois formam o pacote de protocolos TCP/IP. Em outras palavras, o IP classifica a mensagem e o TCP envia e recebe.
