@@ -1,1 +1,6 @@
+O que é DNS
 
+DNS (Domain Name System) é um sistema de gerenciamento de nomes de domínios que converte nomes de domínios em endereços IP. Ele permite que os usuários acessem sites da web digitando apenas o nome do site em vez do endereço IP.
+É o DNS que permite que você digite o nome de um domínio, como zup.com.br na barra de endereços, em vez de uma longa sequência de números difícil de decorar.
+
+![Exemplo DNS](https://files.tecnoblog.net/wp-content/uploads/2019/03/DNS.png)
